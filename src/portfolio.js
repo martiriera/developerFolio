@@ -260,7 +260,7 @@ const blogSection = {
       url: 'https://dislexiaupc.github.io/',
       title: 'Dyscaperoom',
       description:
-        'Co-creation of a functional VR experience that simulates dyslexia and generates empathy towards it, using multiple audio-visual effects.',
+        'Co-creation of a functional VR experience that simulates dyslexia and generates empathy towards it using multiple audio-visual effects.',
     },
     {
       url: 'https://www.dropbox.com/s/dltblxv1y0slokk/Kaggle%20Competition%20Paper%20by%20Riera-Wasmer%20Fall%202020.pdf?dl=0',
