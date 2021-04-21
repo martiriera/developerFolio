@@ -18,6 +18,9 @@ export default function Footer() {
             developerFolio
           </a>
         </p>
+        <p p className={isDark ? "dark-mode footer-text" : "footer-text"}>
+          <a href="https://lordicon.com/">Animated icons by Lordicon.com</a>
+        </p>
       </div>
     </Fade>
   );
