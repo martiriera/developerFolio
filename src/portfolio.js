@@ -1,4 +1,4 @@
-﻿/* Change this file to get your personal Portfolio */
+/* Change this file to get your personal Portfolio */
 
 // Summary And Greeting Section
 
@@ -149,17 +149,18 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: 'Front-End Developer Intern',
-      company: 'Tracktio Group',
-      companylogo: require('./assets/images/tracktioLogo.jpeg'),
-      date: 'January 2019 – September 2020',
+      role: "Ops Intern",
+      company: "Goin",
+      companylogo: require("./assets/images/goin-app.png"),
+      date: "Now",
       desc:
-        'Co-developement of a web-app used to manage and control business activity. Working with IoT solutions.',
+        "Consolidate and strengthen the technical area of the team to turn it, together with the other technical members, into a machine to provide solutions to the company.",
       descBullets: [
-        'Adding contents and features to the web-app, bug-hunting, deployment.',
-        'Configuration, installation and usage of tracking devices such as tags or gateways.',
-        'Performing on-site and remote demos and PoC\'s to international customers.'
-      ],
+          "Influence on leadership and decision making.",
+          "Support the needs or problems of the department.",
+          "Actively participate in the definition, prioritization and development of tasks.",
+        ]
+    },
     }
   ],
 };
