@@ -318,7 +318,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact me"),
   subtitle: "",
-  number: "+34 618 78 21 49",
+  number: "",
   emailAddress: "martirieravila@gmail.com"
 };
 
